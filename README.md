@@ -13,4 +13,4 @@ The contents of each week are as follows :
 - week -  9: Using DFT for spectra of periodic signals.  
 - week - 10: Using DFT for spectra of non-periodic signals. 
 
-The topic for final assesment is: Radiation pattern of a Loop Antenna. 
+The topic for final assesment is 'Radiation pattern of a Loop Antenna'. 
