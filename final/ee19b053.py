@@ -12,14 +12,6 @@ Output  : Plots of Vector Current, Magnetic Field along z-axis: Linear and LogLo
 """
 
 """
-Note : [COVID-19 Related] 
-Assesment was due on 30th May 2021, and the same is being submitted on the
-date mentioned above since I have been effected by COVID-19. Permission f-
--or the same has been obtained from Prof. Harishankar Ramachandran through
-a mail dated 21th May 2021. I humbly request to consider the same. 
-"""
-
-"""
 ---------------------------Start-Of-The-Code------------------------------
 """
 
